@@ -1,0 +1,13 @@
+UTILITY:
+	HELP            Lists all commands
+	COLOR           Change command prompt color
+
+EXTRA:
+	ECHO [text]     Prints text to console
+	CLEAR           Clear all past logs
+
+SYSTEM:
+	INFO            Displays version
+	EXIT            Properly close the system
+
+(Note: Commands aren't case sensetive)
